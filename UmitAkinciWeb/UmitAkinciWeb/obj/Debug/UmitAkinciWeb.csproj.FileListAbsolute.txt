@@ -1,0 +1,68 @@
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\ApplicationInsights.config
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\csc.exe
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\vbc.exe
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\UmitAkinciWeb.dll.config
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\UmitAkinciWeb.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\UmitAkinciWeb.pdb
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.Web.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.Web.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.csprojResolveAssemblyReference.cache
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.pdb
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\ApplicationInsights.config
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\csc.exe
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\vbc.exe
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\UmitAkinciWeb.dll.config
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\UmitAkinciWeb.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\UmitAkinciWeb.pdb
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.Web.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.Web.xml
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.csprojAssemblyReference.cache
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.csproj.CopyComplete
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.dll
+C:\Users\uakinci\Desktop\UmitAkinciWeb\UmitAkinciWeb\obj\Debug\UmitAkinciWeb.pdb
